@@ -20,6 +20,6 @@
 
 ## 🤓 Estudio extra
 ### 📅 2021
-- [ ] Apreder Vuejs 
+- [ ] Aprender Vuejs 
 - [ ] Aprender FastApi
 - [ ] Aprender Docker
